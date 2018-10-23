@@ -28,4 +28,18 @@ p{
 
 .table{
     margin-top:30px;
+    margin-bottom: 30px;
+}
+
+.row{
+    display:flex;
+}
+
+.col-1{
+    flex:50%;
+    padding: 5px;
+}
+.col-2{
+    flex:50%;
+    padding: 5px;
 }
